@@ -15,3 +15,7 @@ This repository is part of my assessment in the Mobile App Development course. T
 - [GSON converter](https://github.com/google/gson)
 - [Coil Compose](https://coil-kt.github.io/coil/compose/)
 - [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)
+
+### Coop 3
+- [Save data in a local database using Room](https://developer.android.com/training/data-storage/room)
+- [Room](https://developer.android.com/jetpack/androidx/releases/room)
