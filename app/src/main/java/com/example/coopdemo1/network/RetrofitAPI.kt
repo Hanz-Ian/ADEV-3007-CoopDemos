@@ -1,6 +1,5 @@
 package com.example.coopdemo1.network
 
-import com.google.firebase.appdistribution.gradle.ApiService
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
